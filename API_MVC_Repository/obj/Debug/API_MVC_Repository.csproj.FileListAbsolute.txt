@@ -1,0 +1,154 @@
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\roslyn\csc.exe
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\roslyn\vbc.exe
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\roslyn\VBCSCompiler.exe
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\API_MVC_Repository.dll.config
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\API_MVC_Repository.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\API_MVC_Repository.pdb
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Antlr3.Runtime.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\EntityFramework.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\EntityFramework.SqlServer.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Newtonsoft.Json.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Owin.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\System.Net.Http.Formatting.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Helpers.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Http.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Http.Owin.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Http.WebHost.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Mvc.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Optimization.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Razor.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\System.Web.WebPages.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\System.Web.WebPages.Razor.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\WebGrease.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Newtonsoft.Json.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\System.Net.Http.Formatting.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Helpers.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Http.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Http.WebHost.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Mvc.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Optimization.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Razor.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\System.Web.WebPages.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\System.Web.WebPages.Razor.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Antlr3.Runtime.pdb
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\EntityFramework.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\EntityFramework.SqlServer.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Http.Owin.xml
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\obj\Debug\API_MVC_Repository.dll
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\obj\Debug\API_MVC_Repository.pdb
+C:\Users\Binti\Documents\Visual Studio 2015\Projects\ANGULAR CRUD PROJECT LIST\API_MVC_Repository\API_MVC_Repository\obj\Debug\API_MVC_Repository.csprojResolveAssemblyReference.cache
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\roslyn\csc.exe
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\roslyn\System.Collections.Immutable.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\roslyn\System.Reflection.Metadata.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\roslyn\vbc.exe
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\roslyn\VBCSCompiler.exe
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\roslyn\VBCSCompiler.exe.config
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\API_MVC_Repository.dll.config
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\API_MVC_Repository.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\API_MVC_Repository.pdb
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Antlr3.Runtime.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\EntityFramework.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\EntityFramework.SqlServer.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.AspNet.Identity.Core.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.Cookies.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.Facebook.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.Google.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.OAuth.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.Twitter.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Web.Infrastructure.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Newtonsoft.Json.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Owin.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\System.Net.Http.Formatting.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Helpers.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Http.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Http.Owin.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Http.WebHost.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Mvc.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Optimization.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Razor.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\System.Web.WebPages.Deployment.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\System.Web.WebPages.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\System.Web.WebPages.Razor.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\WebGrease.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Newtonsoft.Json.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\System.Net.Http.Formatting.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Helpers.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Http.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Http.WebHost.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Mvc.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Optimization.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Razor.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\System.Web.WebPages.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\System.Web.WebPages.Deployment.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\System.Web.WebPages.Razor.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Antlr3.Runtime.pdb
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\EntityFramework.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\EntityFramework.SqlServer.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.AspNet.Identity.Core.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.Facebook.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.Cookies.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.OAuth.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.Google.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.Twitter.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\bin\System.Web.Http.Owin.xml
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\obj\Debug\API_MVC_Repository.csprojResolveAssemblyReference.cache
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\obj\Debug\API_MVC_Repository.dll
+F:\DOT NET PROJECT\API_MVC_Repository\API_MVC_Repository\API_MVC_Repository\obj\Debug\API_MVC_Repository.pdb

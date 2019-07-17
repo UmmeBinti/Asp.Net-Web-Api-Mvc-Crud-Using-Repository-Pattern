@@ -1,0 +1,90 @@
+﻿
+
+
+    <div ng-controller="StudentCtrl" ng-init="GetStudents()">
+        <div class="container">
+            <div class="panel panel-primary">
+                <div class="panel-heading" id="spn">Add New Student</div>
+                <div class="panel-body">
+                    <div class="form-horizontal" role="form">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">First Name:</label>
+                                        <div class="col-md-6">
+                                            <input type="text" class="form-control" id="txtfName" placeholder="First Name" ng-model="firstName" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">Last Name:</label>
+                                        <div class="col-md-6">
+                                            <input type="text" class="form-control" id="txtLName" placeholder="Last Name" ng-model="lastName" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">Email:</label>
+                                        <div class="col-md-6">
+                                            <input type="text" class="form-control" id="txtEmail" placeholder="something@gmail.com" ng-model="email" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">Address:</label>
+                                        <div class="col-md-6">
+                                            <input type="text" class="form-control" id="txtAddress" placeholder="Student Address" ng-model="address" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-2 pull-right">
+                                    <input type="button" id="btnSubmit" class="form-control btn-success" value="Submit" ng-click="SaveUpdate()" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel panel-info">
+                <div class="panel-heading">Student Details</div>
+                <table class="table table-bordered text-center">
+                    <thead style="background-color:lightblue;">
+                        <tr>
+                            <th style="display:none">Student ID</th>
+                            <th>First Name</th>
+                            <th>Last Name</th>
+                            <th>Email</th>
+                            <th>Address</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr ng-repeat="std in students">
+
+                            <td style="display:none">{{std.StudentID}}</td>
+                            <td>{{std.FirstName}}</td>
+                            <td>{{std.LastName}}</td>
+                            <td>{{std.Email}}</td>
+                            <td>{{std.Address}}</td>
+                            <td style="width:200px;" class="text-center">
+                                <input type="button" class="btn btn-warning" ng-click="GetStudentByID(std)" value="Update" />
+                                <input type="button" class="btn btn-danger" ng-click="DeleteStudent(std)" value="Delete" />
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    @Html.Hidden("StudentID")
+</div>
+
+
